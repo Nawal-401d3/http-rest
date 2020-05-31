@@ -1,0 +1,26 @@
+{
+  "categories": [],
+  "products": [
+    {
+      "category": "bags,",
+      "name": "nikr bag,",
+      "display_name": "nike flat shoe,",
+      "desp": "about diff types of bags",
+      "_id": 1
+    },
+    {
+      "category": "shoes",
+      "name": "adidas shoe,",
+      "display_name": "adidas shoe,",
+      "desp": "about diff types of shoes",
+      "_id": 2
+    },
+    {
+      "category": "shoes,",
+      "name": "puma shoe,",
+      "display_name": "puma shoe,",
+      "desp": "about diff types of shoes",
+      "_id": 3
+    }
+  ]
+}
